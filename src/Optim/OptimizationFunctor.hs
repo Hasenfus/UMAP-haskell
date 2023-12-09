@@ -1,0 +1,2 @@
+module Optim.OptimizationFunctor where
+
